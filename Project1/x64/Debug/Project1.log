@@ -1,1 +1,43 @@
-﻿  Project1.vcxproj -> C:\Users\Ayoub\Desktop\Random Projects\Book Store\Project1\x64\Debug\Project1.exe
+﻿  clsBooksListScreen.cpp
+C:\Users\Ayoub\Desktop\BookStore\Project1\clsUtil.h(21,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBooksListScreen.cpp')
+  
+C:\Users\Ayoub\Desktop\BookStore\Project1\clsUtil.h(52,48): warning C4267: '+=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBooksListScreen.cpp')
+  
+  Source.cpp
+C:\Users\Ayoub\Desktop\BookStore\Project1\clsUtil.h(21,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Ayoub\Desktop\BookStore\Project1\clsUtil.h(52,48): warning C4267: '+=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Ayoub\Desktop\BookStore\Project1\clsBestSellingBooksScreen.h(27,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Ayoub\Desktop\BookStore\Project1\clsHighestRatedBooksScreen.h(26,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Ayoub\Desktop\BookStore\Project1\clsBooksManager.h(26,21): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Ayoub\Desktop\BookStore\Project1\clsUsersManager.h(22,21): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Ayoub\Desktop\BookStore\Project1\clsAuthorsManager.h(21,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Ayoub\Desktop\BookStore\Project1\clsAuthorScreen.h(144,20): warning C4129: 'A': unrecognized character escape sequence
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Ayoub\Desktop\BookStore\Project1\clsUserScreen.h(123,20): warning C4129: 'P': unrecognized character escape sequence
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Ayoub\Desktop\BookStore\Project1\clsUserScreen.h(162,20): warning C4129: 'R': unrecognized character escape sequence
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Ayoub\Desktop\BookStore\Project1\clsUserScreen.h(213,20): warning C4129: 'C': unrecognized character escape sequence
+  (compiling source file 'Source.cpp')
+  
+  Generating Code...
+  Project1.vcxproj -> C:\Users\Ayoub\Desktop\BookStore\x64\Debug\Project1.exe
